@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi friends 👋
+---
+### About me
+- 🏳️‍⚧️ I'm a trans A-Level CS student from the UK
+- 
 <!--
 **makky2206/makky2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
