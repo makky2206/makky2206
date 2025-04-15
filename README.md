@@ -11,6 +11,8 @@
     - A functioning handwritten character recognition system for my A-Level Computer Science NEA
 
 You can contact me through [my email](makparker06@gmail.com) and my socials.
+
+nya✨
 <!--
 **makky2206/makky2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
