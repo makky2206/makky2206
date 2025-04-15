@@ -2,10 +2,11 @@
 ---
 ### About me
 - 🏳️‍⚧️ I'm a trans A-Level CS student from the UK
-- Pronouns: they/them
-- I have a teeny tiny obsession with graphics programming
-- I'm working on my A-Level NEA project in computing:
-  - (Not made public yet as I have not completed or submitted it)
+- Currently interested in graphics programming
+- Past projects include:
+    - Shader programming for a couple gamejam games
+    - Investigation into neural networking
+    - Made a functioning handwritten character recognition system for my A-Level Computer Science NEA
 
 You can contact me through [my email](makparker06@gmail.com) and my socials.
 <!--
