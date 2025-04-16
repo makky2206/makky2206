@@ -1,4 +1,4 @@
-# Hi friends 👋
+# Hihi pooksters 😏
 ---
 ### About me
 - 🏳️‍⚧️ I'm a trans A-Level CS student from the UK
