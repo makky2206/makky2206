@@ -10,7 +10,7 @@
     - Investigations into neural networking
     - A functioning handwritten character recognition system for my A-Level Computer Science NEA
 
-You can contact me through [my email](makparker06@gmail.com) and my socials.
+You can contact me through my email and my socials.
 
 nya✨
 <!--
