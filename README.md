@@ -1,7 +1,7 @@
-# Hihi
+# Hihi 👋👋
 ---
-### About me
-- 🏳️‍⚧️ I'm a trans A-Level CS student from the UK
+### About me 
+- 🏳️‍⚧️ I'm a trans A-Level CS student from the UK, studying at Lancaster University
 - Currently interested in graphics programming
 - Past projects include:
     - Shader programming for a couple gamejam games
