@@ -1,4 +1,4 @@
-# Hihi 👋👋
+# Hihi
 ---
 ### About me 
 - 🏳️‍⚧️ I'm a trans A-Level CS student from the UK, studying at Lancaster University
